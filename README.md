@@ -12,3 +12,5 @@ https://lernantino.github.io/run-buddy/
 
 ## Contribution
 Made with love by Theo Phillips
+
+### ©2019 Run Buddy, Inc
